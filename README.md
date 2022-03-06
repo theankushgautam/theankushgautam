@@ -17,7 +17,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -49,17 +49,18 @@
 
 ## Connect with me:
 
-<p align="left">
+<p align="center">
 
 <a href = "https://twitter.com/ankush768"><img src="https://img.icons8.com/fluency/96/000000/twitter.png"/></a>
 
 </p>
-<p align="left">
+<p align="center">
 
 <a href = "https://facebook.com/ankushgautam"><img src="https://img.icons8.com/fluency/96/000000/facebook.png"/></a>
 
 </p>
 ##  ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankush-Gautam">
 </a>
