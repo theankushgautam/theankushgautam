@@ -60,9 +60,11 @@
 <a href = "https://facebook.com/ankushgautam"><img src="https://img.icons8.com/fluency/96/000000/facebook.png"/></a>
 
 </p>
-##  ❤ Views and Followers
+<div align="center">
+## Views and Followers:
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankush-Gautam">
 </a>
 <a href="https://github.com/Ankush-Gautam?tab=followers"><img src="https://img.shields.io/github/followers/Ankush-Gautam?label=Followers&style=social" alt="GitHub Badge"></a>
+    </div>
