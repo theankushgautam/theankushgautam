@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush Gautam</h1>
 <h3 align="center">I'm a passionate Front-end Web Developer from Nepal.</h3>
 
+<p align="center">
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Web Development**
@@ -12,7 +13,7 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.ankushgautam.com.np)**
 
 - 📫 How to reach me **theag768@gmail.com**
-
+</p>
 
 ## 🚀 Languages and Tools:
 
