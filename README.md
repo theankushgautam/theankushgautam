@@ -7,14 +7,12 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-<<<<<<< HEAD
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.ankushgautam.com.np)**
 
 - 📫 How to reach me **theag768@gmail.com**
 
--
 
 ## 🚀 Languages and Tools:
 
@@ -60,12 +58,8 @@
 <a href = "https://facebook.com/ankushgautam"><img src="https://img.icons8.com/fluency/96/000000/facebook.png"/></a>
 
 </p>
-## ❤ Views and Followers
+##  ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankush-Gautam">
 </a>
 <a href="https://github.com/Ankush-Gautam?tab=followers"><img src="https://img.shields.io/github/followers/Ankush-Gautam?label=Followers&style=social" alt="GitHub Badge"></a>
-=======
-Webiste: [Ankush Gautam](https:\\www.ankushgautam.com.np)
-Twitter: [@ankush768](https:\\www.twitter.com\ankush768)
->>>>>>> 13e3b1eff39a952524495f6e9a8baae3fc15069d
