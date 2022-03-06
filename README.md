@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ankush - aka Ag
 
-<!--
-**Ankush-Gautam/Ankush-Gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and a Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Website.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with maybe something.
+- ⚡ Fun fact: I cannot live without my computer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[website](https:\ankushgautam.com.np)
