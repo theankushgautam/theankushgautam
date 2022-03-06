@@ -10,4 +10,5 @@
 
 ### Connect with me:
 
-[website](https:\ankushgautam.com.np)
+Webiste: [Ankush Gautam](https:\\www.ankushgautam.com.np)
+Twitter: [@ankush768](https:\\www.twitter.com\ankush768)
