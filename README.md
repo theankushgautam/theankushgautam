@@ -14,7 +14,7 @@
 - 📫 How to reach me **theag768@gmail.com**
 
 <p align="center">
-## 🚀 Languages and Tools:
+##  🚀 Languages and Tools:
 </p>
 <p align="center"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
@@ -32,7 +32,7 @@
 </p>
 
 <div align= "center">
-## 📊 My Github Stats
+##  📊 My Github Stats
 
   <br/>
   <img alt="Ankush Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankush-Gautam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+##  Connect with me:
 
 <p align="center">
 
@@ -61,10 +61,13 @@
 
 </p>
 <div align="center">
-## Views and Followers:
+##  Views and Followers:
 
+    <br>
+    <p text-align:center>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankush-Gautam">
 </a>
 <a href="https://github.com/Ankush-Gautam?tab=followers"><img src="https://img.shields.io/github/followers/Ankush-Gautam?label=Followers&style=social" alt="GitHub Badge"></a>
+    </p>
     </div>
