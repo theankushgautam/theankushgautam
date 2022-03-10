@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush Gautam</h1>
 <h3 align="center">I'm a passionate Front-end Web Developer from Nepal.</h3>
 
+<div text-align:center>
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Web Development**
@@ -12,9 +13,9 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ankushgautam.com.np/)**
 
 - 📫 How to reach me **theag768@gmail.com**
-
+</div>
 <p align="center">
-##  🚀 Languages and Tools:
+<h1> 🚀 Languages and Tools: </h1>
 </p>
 <p align="center"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
@@ -61,13 +62,12 @@
 
 </p>
 <div align="center">
-##  Views and Followers:
+    <h2>Views and Followers:</h2>
 
     <br>
-    <p text-align:center>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankush-Gautam">
 </a>
 <a href="https://github.com/Ankush-Gautam?tab=followers"><img src="https://img.shields.io/github/followers/Ankush-Gautam?label=Followers&style=social" alt="GitHub Badge"></a>
-    </p>
+
     </div>
