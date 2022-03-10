@@ -26,15 +26,13 @@
 <div align="center">
   <h1>🙋‍♂️ About Me</h1>
 
-  <ul list-style="none">
-    <li>🌱 I’m currently learning **Web Development**</li>
-    <li>👯 I’m looking to collaborate on **OpenSource Projects**</li>
-    <li>
-      👨‍💻 All of my projects are available at **[My
-      Portfolio](https://ankushgautam.com.np/)**
-    </li>
-    <li>📫 How to reach me **theag768@gmail.com**</li>
-  </ul>
+  <p>
+      -🌱 I’m currently learning <b>Web Development</b> <br>
+    -👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
+     - 👨‍💻 All of my projects are available at <b>[My
+        Portfolio](https://ankushgautam.com.np/)</b> <br>
+      - 📫 How to reach me <b>theag768@gmail.com</b>
+      </p>
 </div>
 
 <br />
