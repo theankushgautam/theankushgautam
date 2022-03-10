@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.ankushgautam.com.np)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ankushgautam.com.np/)**
 
 - 📫 How to reach me **theag768@gmail.com**
 
