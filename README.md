@@ -29,9 +29,9 @@
   <p>
       -🌱 I’m currently learning <b>Web Development</b> <br>
     -👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
-     - 👨‍💻 All of my projects are available at <b>[My
-        Portfolio](https://ankushgautam.com.np/)</b> <br>
-      - 📫 How to reach me <b>theag768@gmail.com</b>
+     - 👨‍💻 All of my projects are available at <b><a href="https://ankushgautam.com.np/">My
+      Portfolio</a></b> <br>
+      - 📫 How to reach me <b><a href="mailto:theag768@gmail.com">Gmail</a>.</b>
       </p>
 </div>
 
