@@ -94,13 +94,20 @@
   <h1>Connect with me</h1>
 
   <a href="https://twitter.com/ankush768">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" />
+   <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
   </a>
   <a href="https://facebook.com/ankushgautam">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" />
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
   </a>
  <a href="https://www.reddit.com/user/GumWudBePerfection">
     <img src="https://img.icons8.com/fluency/48/000000/reddit.png" />
+  </a>
+    <a href="https://www.instagram.com">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
+    </a>
+    <a href="https://www.instagram.com">
+   <img src="https://img.icons8.com/fluency/48/000000/discord.png"/>
   </a>
   <br />
   <h2>Views and Followers:</h2>
