@@ -21,7 +21,6 @@
 </div>
 
 <br />
-<br />
 <!-- about-me section -->
 <div align="center">
   <h1>🙋‍♂️ About Me</h1>
@@ -36,7 +35,6 @@
 </div>
 
 <br />
-<br />
 <!-- languages i speak -->
 <div align="center">
   <h1>🚀 Languages and Tools:</h1>
@@ -49,7 +47,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" />
 </div>
 
-<br />
 <br />
 <!-- my github streak-->
 <div align="center">
