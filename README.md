@@ -29,7 +29,7 @@
     -👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
      - 👨‍💻 All of my projects are available at <b><a href="https://ankushgautam.com.np/">My
       Portfolio</a></b> <br>
-      - 📫 How to reach me <b><a href="mailto:theag768@gmail.com">Gmail</a>.</b>
+      - 📫 How to reach me <b><a href="mailto:theankushgautam@gmail.com" target="_blank">Gmail</a>.</b>
       </p>
 </div>
 
@@ -92,25 +92,25 @@
 <div align="center">
   <h1>Connect with me</h1>
 
-  <a href="https://twitter.com/ankush768">
+  <a href="https://twitter.com/theankushgautam">
    <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
   </a>
   <a href="https://facebook.com/ankushgautam">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
   </a>
- <a href="https://www.reddit.com/user/GumWudBePerfection">
+ <a href="https://www.reddit.com/user/TheGoodlyBad">
     <img src="https://img.icons8.com/fluency/48/000000/reddit.png" />
   </a>
     <a href="https://www.instagram.com">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
     </a>
-    <a href="https://www.instagram.com">
+    <a href="https://www.discord.com/ag">
    <img src="https://img.icons8.com/fluency/48/000000/discord.png"/>
   </a>
   <br />
+    <!--My views & Followers Count-->
   <h2>Views and Followers:</h2>
-
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ankush-Gautam" />
   </a>
