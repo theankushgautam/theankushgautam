@@ -29,7 +29,7 @@
     -👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
      - 👨‍💻 All of my projects are available at <b><a href="https://ankushgautam.com.np/">My
       Portfolio</a></b> <br>
-      - 📫 How to reach me <b><a href="mailto: theankushgautam@gmail.com" target="_blank">Gmail</a>.</b>
+      - 📫 How to reach me <b><a href="https://mailto: theankushgautam@gmail.com" target="_blank">Gmail</a>.</b>
       </p>
 </div>
 
