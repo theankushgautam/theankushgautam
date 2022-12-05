@@ -15,7 +15,7 @@
     />, I'm Ankush Gautam
   </h1>
   <h3 align="center">
-    I'm a passionate Front-End Web Developer & a student from Nepal.
+   When Life gives you lemonade, make lemons. Life will be All WHAAAT??
   </h3>
 </div>
 
@@ -41,35 +41,6 @@
     title="🔥 Get streak stats for your profile at git.io/streak-stats"
     alt="Ankush Gautam's streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Gautam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
-  />
-</div>
-
-<br />
-<br />
-<!-- my github stats like contribution & total repos etc. -->
-<div align="center">
-  <h1>📊 My Github Stats</h1>
-
-  <img
-    alt="Ankush Gautam's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Ankush-Gautam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-  />
-  <br />
-
-  <img
-    alt="Ankush Gautam's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Gautam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-  />
-</div>
-
-<br />
-<br />
-<!-- my activity graph -->
-<div align="center">
-  <h1>My Activity Graph</h1>
-  <img
-    alt="Ankush Gautam's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Ankush-Gautam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
   />
 </div>
 
