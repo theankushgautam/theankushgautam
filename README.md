@@ -53,10 +53,10 @@
   <a href="https://twitter.com/theankushgautam">
    <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
   </a>
-  <a href="https://facebook.com/ankushgautam">
+  <a href="https://facebook.com/">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
   </a>
- <a href="https://www.reddit.com/user/TheGoodlyBad">
+ <a href="https://www.reddit.com/user/">
     <img src="https://img.icons8.com/fluency/48/000000/reddit.png" />
   </a>
     <a href="https://www.instagram.com">
