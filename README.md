@@ -23,14 +23,12 @@
 <!-- about-me section -->
 <div align="center">
   <h1>🙋‍♂️ About Me</h1>
-
   <p>
-      -🌱 I’m currently learning <b>Web Development</b> <br>
-    -👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
-     - 👨‍💻 All of my projects are available at <b><a href="https://ankushgautam.com.np/">My
-      Portfolio</a></b> <br>
-      - 📫 How to reach me <b><a href="https://mailto: theankushgautam@gmail.com" target="_blank">Gmail</a>.</b>
-      </p>
+    🌱 I’m currently learning <b>Web Development</b> <br>
+    👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
+    👨‍💻 All of my projects are available at <b><a href="https://ankushgautam.com.np/">MyPortfolio</a></b><br>
+    📫 How to reach me <b><a href="https://mailto: theankushgautam@gmail.com" target="_blank">Gmail</a>.</b>
+   </p>
 </div>
 
 <br />
@@ -40,7 +38,7 @@
   <img
     title="🔥 Get streak stats for your profile at git.io/streak-stats"
     alt="Ankush Gautam's streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Gautam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+    src="https://streak-stats.demolab.com?user=Ankush-Gautam&theme=blood&border_radius=11.8"
   />
 </div>
 
