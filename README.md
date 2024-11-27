@@ -1,8 +1,8 @@
 <!-- first sitting image -->
 <img
-    width="100%"
+    width="100px"
     src="https://i.imgur.com/iXuL1HG.png"
-    height="auto"
+    height="100px"
 />
 
 <!-- My name and job -->
@@ -14,14 +14,15 @@
       width="20px" height="20px"
     />, I'm Ankush Gautam
   </h1>
+    
   <h3 align="center">
-   When Life gives you lemonade, make lemons. Life will be All WHAAAT??
+       When Life gives you lemonade, make lemons. Life will be All WHAAAT??
   </h3>
 </div>
 
 <!-- about-me section -->
 <div align="center">
-  <h1>🙋‍♂️ About Me</h1>
+  <h2>🙋‍♂️ About Me</h2>
   <p>
     🌱 I’m currently learning <b>Web Development</b> <br>
     👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
@@ -31,7 +32,7 @@
 
 <!-- my github streak-->
 <div align="center">
-  <h1>My Github Streak</h1>
+  <h2>My Github Streak</h2>
   <img
     title="🔥 Get streak stats for your profile at git.io/streak-stats"
     alt="Ankush Gautam's streak"
