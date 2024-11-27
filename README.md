@@ -2,7 +2,7 @@
 <img
     width="100%"
     src="https://i.imgur.com/iXuL1HG.png"
-    height="50px"
+    height="auto"
 />
 
 <!-- My name and job -->
