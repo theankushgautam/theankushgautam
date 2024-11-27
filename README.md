@@ -2,7 +2,7 @@
 <img
     width="100%"
     src="https://i.imgur.com/iXuL1HG.png"
-    height="auto"
+    height="50px"
 />
 
 <!-- My name and job -->
@@ -19,7 +19,6 @@
   </h3>
 </div>
 
-<br />
 <!-- about-me section -->
 <div align="center">
   <h1>🙋‍♂️ About Me</h1>
@@ -30,7 +29,6 @@
    </p>
 </div>
 
-<br />
 <!-- my github streak-->
 <div align="center">
   <h1>My Github Streak</h1>
