@@ -1,6 +1,6 @@
 <!-- first sitting image -->
 <img
-    width="50%"
+    width="100%"
     src="https://i.imgur.com/iXuL1HG.png"
     height="auto"
 />
