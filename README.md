@@ -1,8 +1,8 @@
 <!-- first sitting image -->
 <img
-    width="100px"
+    width="100%"
     src="https://i.imgur.com/iXuL1HG.png"
-    height="100px"
+    height="auto"
 />
 
 <!-- My name and job -->
