@@ -16,7 +16,7 @@
   </h1>
     
   <h3 align="center">
-       When Life gives you lemonade, make lemons. Life will be All WHAAAT??
+       When Life gives you lemonade, make lemons. Life will be all WHAAAT??
   </h3>
 </div>
 
@@ -36,6 +36,6 @@
   <img
     title="🔥 Get streak stats for your profile at git.io/streak-stats"
     alt="Ankush Gautam's streak"
-    src="https://streak-stats.demolab.com?user=Ankush-Gautam&theme=blood&border_radius=11.8"
+    src="https://streak-stats.demolab.com?user=theankushgautam&theme=blood&border_radius=11.8"
   />
 </div>
