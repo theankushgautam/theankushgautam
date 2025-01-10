@@ -33,9 +33,5 @@
 <!-- my github streak-->
 <div align="center">
   <h2>My Github Streak</h2>
-  <img
-    title="🔥 Get streak stats for your profile at git.io/streak-stats"
-    alt="Ankush Gautam's streak"
-    src="https://streak-stats.demolab.com?user=theankushgautam&theme=blood&border_radius=11.8"
-  />
+ <img src="https://streak-stats.demolab.com?user=theankushgautam&theme=youtube-dark" alt="GitHub Streak" />
 </div>
