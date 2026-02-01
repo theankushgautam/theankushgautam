@@ -1,37 +1,33 @@
-<!-- first sitting image -->
-<img
-    width="100%"
-    src="https://i.imgur.com/iXuL1HG.png"
-    height="auto"
-/>
+<h1 align="center">Ankush Gautam</h1>
 
-<!-- My name and job -->
+<p align="center">
+  Full-stack developer • Next.js • TypeScript • Python • Docker
+</p>
+
 <div align="center">
-  <h1>
-    Hi
-    <img
-      src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-      width="20px" height="20px"
-    />, I'm Ag
-  </h1>
-    
-  <h3 align="center">
-       When Life gives you lemonade, make lemons. Life will be all WHAAAT??
-  </h3>
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&colorA=1e1e2e&colorB=cba6f7" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&colorA=1e1e2e&colorB=89b4fa" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&colorA=1e1e2e&colorB=f9e2af" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&colorA=1e1e2e&colorB=89dceb" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&colorA=1e1e2e&colorB=74c7ec" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&colorA=1e1e2e&colorB=b4befe" alt="Vercel" />
+
 </div>
 
-<!-- about-me section -->
-<div align="center">
-  <h2>🙋‍♂️ About Me</h2>
-  <p>
-    🌱 I’m currently learning <b>Web Development</b> <br>
-    👯 I’m looking to collaborate on <b>OpenSource Projects<b> <br>
-    📫 How to reach me <b><a href="https://mailto: theankushgautam@gmail.com" target="_blank">Gmail</a>.</b>
-   </p>
-</div>
+### Focus
+- Building performant web applications with Next.js (App Router)  
+- Clean architecture & developer experience  
+- Python scripting & backend services  
+- Containerization & modern deployment workflows
 
-<!-- my github streak-->
-<div align="center">
-  <h2>My Github Streak</h2>
- <img src="https://streak-stats.demolab.com?user=theankushgautam&theme=youtube-dark" alt="GitHub Streak" />
-</div>
+### Currently
+- Deepening Next.js + TypeScript knowledge  
+- Exploring serverless & edge computing patterns  
+- Open to meaningful open-source collaboration
+
+### Contact
+📧 [theankushgautam@gmail.com](mailto:theankushgautam@gmail.com)
+
+---
+<p align="center"><small>When life gives you lemonade, make lemons.</small></p>
