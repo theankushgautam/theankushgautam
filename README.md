@@ -14,33 +14,16 @@
 <br>
 
 <!-- Tech stack – single horizontal row + gentle floating -->
-<div align="center" style="margin: 30px 0; white-space: nowrap;">
-  <div style="display: inline-block; animation: float 6s ease-in-out infinite; margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&colorA=1e1e2e&colorB=cba6f7" alt="Next.js" />
-  </div>
-  <div style="display: inline-block; animation: float 7s ease-in-out infinite 0.6s; margin: 0 6px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&colorA=1e1e2e&colorB=89b4fa" alt="TypeScript" />
-  </div>
-  <div style="display: inline-block; animation: float 8s ease-in-out infinite 1.2s; margin: 0 6px;">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&colorA=1e1e2e&colorB=89dceb" alt="C" />
-  </div>
-  <div style="display: inline-block; animation: float 7.5s ease-in-out infinite 1.8s; margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&colorA=1e1e2e&colorB=89dceb" alt="Python" />
-  </div>
-  <div style="display: inline-block; animation: float 8.5s ease-in-out infinite 2.4s; margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&colorA=1e1e2e&colorB=74c7ec" alt="Docker" />
-  </div>
-  <div style="display: inline-block; animation: float 6.5s ease-in-out infinite 3s; margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&colorA=1e1e2e&colorB=b4befe" alt="Vercel" />
-  </div>
-</div>
+<div align="center">
 
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50%      { transform: translateY(-10px); }
-}
-</style>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&colorA=1e1e2e&colorB=cba6f7" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&colorA=1e1e2e&colorB=89b4fa" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&colorA=1e1e2e&colorB=f9e2af" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&colorA=1e1e2e&colorB=89dceb" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&colorA=1e1e2e&colorB=74c7ec" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&colorA=1e1e2e&colorB=b4befe" alt="Vercel" />
+
+</div>
 
 ### Focus
 - Performant Next.js (App Router) web apps  
@@ -69,6 +52,3 @@
 
 ### Contact
 📧 [theankushgautam@gmail.com](mailto:theankushgautam@gmail.com)
-
----
-<p align="center"><small>When life gives you lemonade, make lemons.</small></p>
