@@ -35,19 +35,5 @@
 - Serverless / edge patterns  
 - Open to interesting open-source collabs
 
-<!-- Snake + styled contrib -->
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/theankushgautam/theankushgautam/raw/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/theankushgautam/theankushgautam/raw/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/theankushgautam/theankushgautam/raw/output/github-snake.svg" width="80%" />
-  </picture>
-</div> -->
-
-<!-- Activity stats in Catppuccin -->
-<div align="center">
-  ![Agx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ax1g&show_icons=true&theme=radical)
-</div>
-
 ### Contact
 📧 [sudo.ax1g@gmail.com](mailto:sudo.ax1g@gmail.com)
