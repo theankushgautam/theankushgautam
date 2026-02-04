@@ -36,18 +36,18 @@
 - Open to interesting open-source collabs
 
 <!-- Snake + styled contrib -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/theankushgautam/theankushgautam/raw/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/theankushgautam/theankushgautam/raw/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://github.com/theankushgautam/theankushgautam/raw/output/github-snake.svg" width="80%" />
   </picture>
-</div>
+</div> -->
 
 <!-- Activity stats in Catppuccin -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theankushgautam&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_rank=true" alt="GitHub Stats" width="400" />
+  ![Agx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ax1g&show_icons=true&theme=radical)
 </div>
 
 ### Contact
-📧 [theankushgautam@gmail.com](mailto:theankushgautam@gmail.com)
+📧 [sudo.ax1g@gmail.com](mailto:sudo.ax1g@gmail.com)
